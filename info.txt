@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /ads.txt
+Allow: /tree/
+Allow: /countries/
+Disallow: /photos/
+Disallow: /photol/
+Disallow: /pictures/
+Disallow: /books/
